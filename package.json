@@ -1,0 +1,17 @@
+{
+  "name": "insight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/mangacore-node/bin/mangacore-node start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "insight-manga-api": "https://github.com/neginegi0/insight-manga-api/archive/master.tar.gz",
+    "insight-manga-ui": "https://github.com/neginegi0/insight-manga-ui/archive/master.tar.gz",
+    "mangacore-node": "https://github.com/neginegi0/mangacore-node/archive/master.tar.gz"
+  }
+}
