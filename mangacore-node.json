@@ -3,6 +3,7 @@
   "port": 8080,
   "services": [
     "web",
+    "mangacore-wallet-service",
     "insight-manga-api",
     "insight-manga-ui",
     "bitcoind"

@@ -12,6 +12,7 @@
   "dependencies": {
     "insight-manga-api": "https://github.com/neginegi0/insight-manga-api/archive/master.tar.gz",
     "insight-manga-ui": "https://github.com/neginegi0/insight-manga-ui/archive/master.tar.gz",
-    "mangacore-node": "https://github.com/neginegi0/mangacore-node/archive/master.tar.gz"
+    "mangacore-node": "https://github.com/neginegi0/mangacore-node/archive/master.tar.gz",
+    "mangacore-wallet-service": "https://github.com/neginegi0/mangacore-wallet-service/archive/master.tar.gz"
   }
 }
